@@ -6,10 +6,10 @@
 The way enterprises handle consumer data is broken.
 After over 4100 data breaches in 2022 affecting more than 500 million people, it's clear that there as a few problems in this space.
 
-+ **Lack of control and ownership**: Consumers have limited control over how their data is collected, used, and shared by companies.
-+ **Data breaches and cyber attacks**: As more data is collected and stored electronically, the risk of data breaches and cyber attacks increases, putting consumers' personal and sensitive information at risk.
-+ **Privacy violations**: Companies collect and use consumer data for purposes that are not disclosed to the consumers or go beyond what they have consented to.
-+ **Monopolistic practices**: A few companies control a significant portion of the data market, leading to concerns about their power and influence over consumers and competition.
++ ***Lack of control and ownership***: Consumers have limited control over how their data is collected, used, and shared by companies.
++ ***Data breaches and cyber attacks***: As more data is collected and stored electronically, the risk of data breaches and cyber attacks increases, putting consumers' personal and sensitive information at risk.
++ ***Privacy violations***: Companies collect and use consumer data for purposes that are not disclosed to the consumers or go beyond what they have consented to.
++ ***Monopolistic practices***: A few companies control a significant portion of the data market, leading to concerns about their power and influence over consumers and competition.
 
 ## The Solution
 
@@ -56,11 +56,21 @@ Additionally, the [Avalanche](https://www.avax.network/blockchain-sustainability
 
 With these technologies, the Papayaverse Data Bank allows users to:
 
-+ Storage: Store and manage personal data securely.
-+ Control: Decide who gets to access their data.
-+ Transact: Get paid for sharing data with companies.
-+ Derive Additional Value: Benefit from customized experiences based on their data.
++ ***Storage***: Store and manage personal data securely.
++ ***Control***: Decide who gets to access their data.
++ ***Transact***: Get paid for sharing data with companies.
++ ***Derive Additional Value***: Benefit from customized experiences based on their data.
 
+## Inrupt Hackathon
+
+Papayaverse was entered into the Inrupt Solid Hackathon with a friend in April 2023 and based on this submission, I was invited to speak at (SolidMcr)[https://www.manchesterdigital.com/event/solidmcr/solidmcr-005-developing-with-solid-and-where-to-start]. 
+During the two week hack, I implemented a rudimentary version of the Data Bank API. Here is the [link to the Demo Video.](https://www.youtube.com/watch?v=ZygS-IFWmmc)
+
+
+## Additional Resources
+
+1. [Peer to Peer Federated Machine Learning](https://arxiv.org/abs/2303.06189)
+2. [Demo App Screens](https://bravostudioapp.page.link/?link=https%3A%2F%2Fapps-service.bravostudio.app%2Fdevices%2Fapps%2F01GW2XN76ADARD08R9Q747S4Z0&ofl=https%3A%2F%2Fbravostudio.app%2Fdownload-bravo-vision&apn=com.appfoundry.previewer&ibi=com.codelesslabs.app) (works only on phones)
 
 
 
