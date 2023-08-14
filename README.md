@@ -63,7 +63,7 @@ With these technologies, the Papayaverse Data Bank allows users to:
 
 ## Inrupt Hackathon
 
-Papayaverse was entered into the Inrupt Solid Hackathon with a friend in April 2023 and based on this submission, I was invited to speak at (SolidMcr)[https://www.manchesterdigital.com/event/solidmcr/solidmcr-005-developing-with-solid-and-where-to-start]. 
+Papayaverse was entered into the Inrupt Solid Hackathon with a friend in April 2023 and based on this submission, I was invited to speak at [SolidMcr](https://www.manchesterdigital.com/event/solidmcr/solidmcr-005-developing-with-solid-and-where-to-start). 
 During the two week hack, I implemented a rudimentary version of the Data Bank API. Here is the [link to the Demo Video.](https://www.youtube.com/watch?v=ZygS-IFWmmc)
 
 
